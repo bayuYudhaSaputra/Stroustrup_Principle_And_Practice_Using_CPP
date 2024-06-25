@@ -32,6 +32,12 @@
                         (Baris Kode) 
                     </a>
                 </li>
+                <li> try_this_03_02
+                    <span> | </span>
+                    <a href = "https://github.com/bayuYudhaSaputra/Stroustrup_Principle_And_Practice_Using_CPP/blob/main/sources/try_this_03_02.cpp">
+                        (Baris Kode) 
+                    </a>
+                </li>
          </ul>
   
 </div>
